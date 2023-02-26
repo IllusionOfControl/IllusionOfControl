@@ -1,6 +1,6 @@
 # Hi there, I'm **[Sergey Skorokhod](http://illusion-of-control-portfolio.vercel.app/)**! 👋
 
-For the last 5 years, I have been developing different personal projects using different technologies, using. I also run my own projects, learn new programming languages and technologies, and lead an active and diverse lifestyle. I am interested in Backend development.
+For the last 6 years, I have been developing different personal projects using different technologies, using. I also run my own projects, learn new programming languages and technologies, and lead an active and diverse lifestyle. I am interested in Backend development.
 
 I like to solve complex problems. I am looking for opportunities where I can continue to study while solving real problems with a team of professionals. Ready to move.
 
