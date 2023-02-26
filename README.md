@@ -38,7 +38,7 @@ On my website **[web portfolio)](http://illusion-of-control-portfolio.vercel.app
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Sergey Skorokhod LinkedIn">
     </a>
-    <a href="https://dev.to/josee9988">
+    <a href="https://t.me/illusion_of_control">
         <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"
             alt="Sergey Skorokhod LinkedIn">
     </a>
