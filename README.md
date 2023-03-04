@@ -6,7 +6,7 @@ I like to solve complex problems. I am looking for opportunities where I can con
 
 So far, I do not have a certain stack of technologies, but I am ready to develop in the required direction. Preferred languages: C++, Python, Java
 
-On my website **[web portfolio)](http://illusion-of-control-portfolio.vercel.app/)🧙‍♂️**, you can find more information about my career and professional background.
+On my website **[(web portfolio)](http://illusion-of-control-portfolio.vercel.app/)**, you can find more information about my career and professional background.
 
 ---
 
