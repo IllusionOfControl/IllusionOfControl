@@ -1,10 +1,10 @@
 # Hi there, I'm **[Sergey Skorokhod](http://illusion-of-control-portfolio.vercel.app/)**! 👋
 
-For the last 6 years, I have been developing different personal projects using different technologies, using. I also run my own projects, learn new programming languages and technologies, and lead an active and diverse lifestyle. I am interested in Backend development.
+For the last 8 years, I have been developing different personal projects using different technologies, using. I also run my own projects, learn new programming languages and technologies, and lead an active and diverse lifestyle. I am interested in Backend development.
 
 I like to solve complex problems. I am looking for opportunities where I can continue to study while solving real problems with a team of professionals. Ready to move.
 
-So far, I do not have a certain stack of technologies, but I am ready to develop in the required direction. Preferred languages: C++, Python, Java
+So far, I do not have a certain stack of technologies, but I am ready to develop in the required direction. Preferred languages: Python, C++, Java
 
 On my website **[(web portfolio)](http://illusion-of-control-portfolio.vercel.app/)**, you can find more information about my career and professional background.
 
@@ -13,10 +13,10 @@ On my website **[(web portfolio)](http://illusion-of-control-portfolio.vercel.ap
 ## **😊 About me**
 
 - 🔭 I'm currently working on my engineer's degree.
-- 🧪 I'm currently experiment with my homelab
+- 🧪 I'm currently experiment with my homelab.
 - 🌱 I'm learning computer science.
 - 👯 I'm looking to start a brand-new project/idea.
-- 🎧 I'm really like listening to music
+- 🎧 I'm really like listening to music.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 
 ---
