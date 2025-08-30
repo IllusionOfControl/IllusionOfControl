@@ -1,33 +1,42 @@
-# Hi there, I'm **[Sergey Skorokhod](http://illusion-of-control-portfolio.vercel.app/)**! 👋
+# Hi there, I'm **[Sergey Skorokhod](http://illusion-of-control-portfolio.vercel.app/)** 👋
 
-For the last 8 years, I have been developing different personal projects using different technologies, using. I also run my own projects, learn new programming languages and technologies, and lead an active and diverse lifestyle. I am interested in Backend development.
+I'm an experienced Python Developer with 8 years of hands-on experience, passionate about building robust and scalable backend solutions. Over the years, I've successfully delivered numerous personal projects, continuously exploring new technologies and programming languages. My passion lies in solving complex problems and continuously learning in dynamic environments.
 
-I like to solve complex problems. I am looking for opportunities where I can continue to study while solving real problems with a team of professionals. Ready to move.
+I'm seeking opportunities to join a team of professionals where I can leverage my skills to tackle real-world challenges and further my professional growth.
 
-So far, I do not have a certain stack of technologies, but I am ready to develop in the required direction. Preferred languages: Python, C++, Java
-
-On my website **[(web portfolio)](http://illusion-of-control-portfolio.vercel.app/)**, you can find more information about my career and professional background.
+You can find more detailed information about my experience and projects on my [web portfolio](http://illusion-of-control-portfolio.vercel.app/).
 
 ---
 
-## **😊 About me**
+## **About Me ✨**
 
-- 🔭 I'm currently working on my engineer's degree.
-- 🧪 I'm currently experiment with my homelab.
-- 🌱 I'm learning computer science.
-- 👯 I'm looking to start a brand-new project/idea.
-- 🎧 I'm really like listening to music.
-- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
+*   🔭 I'm currently focused on completing my engineering degree and deepening my understanding of computer science.
+*   🧪 I'm actively experimenting with various technologies in my homelab, constantly expanding my technical horizons.
+*   🌱 Always eager to learn new concepts and technologies, especially within the realm of backend development.
+*   👯 Looking to collaborate on exciting new projects and ideas!
+*   🎧 Music is an important part of my life and often inspires new ideas.
+*   💬 Feel free to ask me anything! I'm fully open to new projects, collaborations, and innovative ideas.
 
 ---
 
-## 📊 Stats
+## **My Skillset 🛠️**
+
+*   **Programming Languages:** Python (Primary), C++, Java
+*   **Backend:** FastAPI, Flask, Django
+*   **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+*   **Cloud & DevOps:** Docker, AWS (Introductory experience)
+*   **Version Control:** Git, SVN
+*   **Other:** Linux, CI/CD (Basic understanding)
+
+---
+
+## **📊 GitHub Stats**
 
 ![Metrics](/github-metrics.svg)
 
 ---
 
-## **📫 How to found me**
+## **Connect With Me 📫**
 
 <div align="center" style="text-align:center">
     <a href="mailto:sergeyskorokhod@gmail.com">
