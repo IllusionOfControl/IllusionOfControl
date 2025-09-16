@@ -24,9 +24,9 @@ You can find more detailed information about my experience and projects on my [w
 *   **Programming Languages:** Python (Primary), C++, Java
 *   **Backend:** FastAPI, Flask, Django
 *   **Databases:** PostgreSQL, MongoDB, MySQL, Redis
-*   **Cloud & DevOps:** Docker, AWS (Introductory experience)
+*   **Cloud & DevOps:** Docker, AWS
 *   **Version Control:** Git, SVN
-*   **Other:** Linux, CI/CD (Basic understanding)
+*   **Other:** Linux, CI/CD
 
 ---
 
